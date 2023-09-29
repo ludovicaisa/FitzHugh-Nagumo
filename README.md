@@ -7,3 +7,7 @@ varying the temperature which defines the amplitude of the noises. The results a
 to considerations about how the two stochastic noises affects differently the FHN system.
 
 On one branch you'll find the paper of the project, the .py branch contains the python codes used to perform the analysis of the trajectory, isitimes and spikes generation.
+
+**NB**: if you uses the script you're invited to mention me&mywork. (I'm a masted degree students who is starting a potential career) Thank you for understanding.
+If you want to improve something please fork it and we can talk about it!
+Thank you again and solidarity among geeks 🤓
